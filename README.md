@@ -3,6 +3,8 @@
 An IMGUI based editor tool for Unity by [Astrid Wilde](http://twitter.com/astridwilde1).
 Works in all Unity Rendering Pipelines since the tool relies on IMGUI instead of shaders for rendering both in the editor and in-game.
 
+![https://starfaerie.github.io/articles/tooltip.html](https://starfaerie.github.io/assets/images/tooltip.jpg)
+
 This tool allows UI/UX artists to create minimalistic in game tooltips in a way that mimics CSS style design, with support for custom fonts and fade in/fade out animation curves.
 The core feature of the editor is the real time visual preview shown in the Editor itself that mimics the in game tooltip popup, allowing UI artists to see visual reflections of the changes they make in real time.
 The visual designer also supports a preview of the fade in/fade out animations.
